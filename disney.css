@@ -1,1 +1,47 @@
 
+main{}
+
+body{
+	font-size: 22pt;
+	}
+	
+	h1, p{
+	text-align:center;	
+	}
+
+img.Place:{
+    display:block;
+    margin:auto;
+	width: 100%
+    }
+
+ul {
+	
+    display: inline-block;
+    text-align:left;
+
+	}	
+ 
+.list {
+	font-size: 16pt;
+    margin: 0;
+    max-width: 100%;
+    position: relative;
+    list-style-type: circle;
+    text-align:center;
+    }
+
+
+
+img.centered-image--image {
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+footer{
+  margin: 10em;
+    
+}
